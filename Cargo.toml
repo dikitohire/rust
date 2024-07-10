@@ -1,5 +1,5 @@
 [workspace]
-members = [
+members =  [
     "src/sample_ic_web3_macros_backend",
     "src/be_2",
 ]
