@@ -9,7 +9,7 @@
     "backend_2": {
       "type": "rust",
       "package": "sample_ic_web3_macros_backend",
-      "candid": "src/sample_ic_web3_macros_backend/sample_ic_web3_macros_backend.did"
+      "candid": "src/sample_ic_web3_macros_backend/sample_ic_web3_macros_backend.did",
     },
     "simple_backend": {
       "type": "rust",
